@@ -11,7 +11,7 @@ y1 = [20, 15, 10, 5]
 plt.plot(x, y)
 plt.plot(x1, y1)
 plt.title('graph chart')
-plt.xlabel('This is my X axis')
-plt.ylabel('This is my Y axis')
+plt.xlabel('This is X axis')
+plt.ylabel('This is Y axis')
 
 plt.show()
